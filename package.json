@@ -1,0 +1,23 @@
+{
+  "name": "ferreter",
+  "version": "0.0.1",
+  "description": "a ferreter",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/ferreter.git"
+  },
+  "keywords": [
+    "ferreter",
+    "github"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/ferreter/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/ferreter#readme"
+}
