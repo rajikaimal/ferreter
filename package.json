@@ -7,7 +7,7 @@
     "start": "babel-node src/index",
     "clean": "rm -rf lib",
     "compile": "babel src -d lib",
-    "prepublish": "npm run clean && npm compile",
+    "prepublish": "npm run clean && npm run compile",
     "test": "mocha"
   },
   "repository": {
