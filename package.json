@@ -1,8 +1,8 @@
 {
   "name": "ferreter",
   "version": "1.0.0",
-  "description": "a ferreter",
-  "main": "app.js",
+  "description": "Collect anonymous usage for NPM package usage",
+  "main": "lib/index.js",
   "scripts": {
     "start": "babel-node src/index",
     "clean": "rm -rf lib",
