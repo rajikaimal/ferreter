@@ -1,4 +1,4 @@
-# ferreter [![Build Status](https://travis-ci.org/rajikaimal/ferreter.svg?branch=master)](https://travis-ci.org/rajikaimal/ferreter)
+# ferreter [![Build Status](https://travis-ci.org/rajikaimal/ferreter.svg?branch=master)](https://travis-ci.org/rajikaimal/ferreter) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/ferreter.svg)](https://greenkeeper.io/)
 
 Collect anonymous usage for NPM package usage
 
